@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "make sure you runed the command as root \"sudo ./iconmaker.sh \""
+echo "make sure you runed the script as root \"sudo ./iconmaker.sh \""
 echo "enter your application name want to be icon name:"
 read applicationname
 echo "enter your application icon name \"no .png\": "
